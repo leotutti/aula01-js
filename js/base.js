@@ -30,4 +30,6 @@ console.log(`turma do aluno ${turmaAluno}`);
 ESCOLA_ALUNO = 'FIAP';
                                
 console.log('Alterando o arquivo JS, executando um novo commit');
+console.log('Outro Teste');
+
 
