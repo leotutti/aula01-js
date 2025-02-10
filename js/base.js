@@ -28,4 +28,6 @@ console.log(`turma do aluno ${turmaAluno}`);
 
 // constante nao muda
 ESCOLA_ALUNO = 'FIAP';
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+                               
+console.log('Alterando o arquivo JS, executando um novo commit');
+
